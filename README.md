@@ -147,29 +147,6 @@ Java • Data Structures • Algorithms
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Balukodeboyina&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Balukodeboyina&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balukodeboyina&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Balukodeboyina&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
 
 # 🚀 Current Goals
 
