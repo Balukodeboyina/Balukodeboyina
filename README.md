@@ -8,23 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Building+the+Future+with+Code+%26+AI;AI+Workflow+Automation+Engineer;LangChain+%7C+RAG+%7C+LLMs+%7C+Java+%7C+Python;Open+Source+Contributor;Aspiring+Software+Engineer" alt="Typing SVG" />
 
-<br>
-
-<p align="center">
-  <a href="https://github.com/Balukodeboyina">
-    <img src="https://komarev.com/ghpvc/?username=Balukodeboyina&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-  </a>
-
-  <a href="https://github.com/Balukodeboyina?tab=followers">
-    <img src="https://img.shields.io/github/followers/Balukodeboyina?logo=github&style=for-the-badge" />
-  </a>
-
-  <a href="https://github.com/Balukodeboyina">
-    <img src="https://img.shields.io/github/stars/Balukodeboyina?style=for-the-badge" />
-  </a>
-</p>
-
-</div>
+ </div>
 
 ---
 
