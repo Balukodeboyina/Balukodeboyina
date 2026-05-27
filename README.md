@@ -156,17 +156,6 @@ Java • Data Structures • Algorithms
 
 ---
 
-# 🏅 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Balukodeboyina&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
-
----
-
 
 # 🚀 Current Goals
 
