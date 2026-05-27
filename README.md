@@ -107,21 +107,7 @@ Optimized Java solutions focused on problem-solving and data structures.
 
 ---
 
-# 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Balukodeboyina&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Balukodeboyina&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balukodeboyina&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 # 🧠 Current Focus
 
