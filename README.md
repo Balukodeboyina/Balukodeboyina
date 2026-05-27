@@ -1,10 +1,12 @@
+<!-- PREMIUM ANIMATED HEADER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Balu%20Kodeboyina&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
 <div align="center">
 
-# 🚀 Balu Kodeboyina
+# 🚀 AI Workflow Automation • AI Agents • Software Engineering
 
-### AI Workflow Automation • AI Agents • Software Engineering • Open Source
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+the+Future+with+Code+%26+AI;AI+Workflow+Automation+Engineer;LangChain+%7C+RAG+%7C+LLMs+%7C+Java+%7C+Python;Open+Source+Contributor;Aspiring+Software+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Building+the+Future+with+Code+%26+AI;AI+Workflow+Automation+Engineer;LangChain+%7C+RAG+%7C+LLMs+%7C+Java+%7C+Python;Open+Source+Contributor;Aspiring+Software+Engineer" alt="Typing SVG" />
 
 <br>
 
@@ -16,6 +18,10 @@
   <a href="https://github.com/Balukodeboyina?tab=followers">
     <img src="https://img.shields.io/github/followers/Balukodeboyina?logo=github&style=for-the-badge" />
   </a>
+
+  <a href="https://github.com/Balukodeboyina">
+    <img src="https://img.shields.io/github/stars/Balukodeboyina?style=for-the-badge" />
+  </a>
 </p>
 
 </div>
@@ -26,18 +32,21 @@
 
 ```yaml
 Name: Balu Kodeboyina
-Role: Aspiring Software Engineer
-Focus:
+
+Role:
+  Aspiring Software Engineer
+
+Focus Areas:
   - AI Workflow Automation
   - AI Agents
   - RAG Systems
-  - Backend Engineering
+  - Backend Development
   - Open Source
 
 Currently Learning:
   - LangGraph
-  - Advanced AI Infrastructure
-  - Cloud & DevOps
+  - AI Infrastructure
+  - Cloud Technologies
   - Scalable Backend Systems
 
 Passion:
@@ -89,7 +98,7 @@ Passion:
 
 ## 📘 Balu's Study Pro — AI-Powered Virtual Study Assistant
 
-> Intelligent academic assistant powered by RAG architecture, semantic search, and AI workflows.
+> Intelligent academic assistant powered by RAG architecture and semantic search.
 
 ### ✨ Features
 
@@ -110,7 +119,7 @@ Python • LangChain • Llama 3.3 • FAISS • PyTorch • Streamlit • Postg
 
 ## 🤖 AI Workflow Automation System
 
-> Intelligent workflow automation integrating AI agents and task orchestration pipelines.
+> Intelligent workflow automation integrating AI agents and automation pipelines.
 
 ### 🛠️ Tech Stack
 
@@ -122,7 +131,7 @@ Python • APIs • Automation Tools • AI Agents
 
 ## 💻 Java Problem Solving & DSA
 
-> Optimized Java solutions focused on problem-solving, algorithms, and data structures.
+> Optimized Java solutions focused on problem-solving and data structures.
 
 ### 🛠️ Tech Stack
 
@@ -144,6 +153,17 @@ Java • Data Structures • Algorithms
 | HackerRank 5⭐ in Java | HackerRank |
 
 </div>
+
+---
+
+# 🏅 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Balukodeboyina&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
 
 ---
 
@@ -183,8 +203,12 @@ Java • Data Structures • Algorithms
 
 <div align="center">
 
-## 💡 “Building the Future with Code & AI”
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+# 💡 “Building the Future with Code & AI”
 
 </div>
+
+---
+
+<!-- PREMIUM FOOTER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
